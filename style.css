@@ -813,9 +813,7 @@ visibility: hidden;    }
         width: 80%;
         margin-top: 140px;
       }
-       /* .menu-container{
-        display: none !important;
-    }  */
+      
 }
 @media only screen and (max-width: 2560px){
     .nav-menu1 {
