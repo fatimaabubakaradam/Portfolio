@@ -21,7 +21,6 @@ window.addEventListener("scroll", () => {
         }
     });
   
-    // Close the dropdown menu when a link is clicked
     menuLinks.forEach(function (link) {
         link.addEventListener("click", function () {
             dropdownMenu.style.display = "none";
@@ -31,7 +30,6 @@ window.addEventListener("scroll", () => {
   
   
   
-  // ✅ Navbar Shadow on Scroll
   function headerShadow() {
     const navHeader = document.getElementById("header");
     if (navHeader) {
