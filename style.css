@@ -595,7 +595,7 @@ textarea{
     display: flex;
     justify-content: space-around;
     padding: 15px;
-    background-color: purple; /* Purple */
+    background-color: purple; 
     color: #efefef;
 
 }
