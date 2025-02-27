@@ -800,9 +800,7 @@ visibility: hidden;    }
       
 }
 @media only screen and (max-width: 1440px){
-    .nav-menu1 {
-        display: none !important;
-      }
+
       .two-sections{
         display: flex;
         flex-direction: row;
