@@ -126,9 +126,9 @@ background-color: black   !important ;
     display: block ;
 }
 #dropdown-menu {
-    display: none; /* Initially hidden */
+    display: none; 
     position: absolute;
-    top: 50px; /* Adjust based on design */
+    top: 50px; 
     right: 10px;
     background: white;
     padding: 10px;
