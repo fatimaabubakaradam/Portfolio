@@ -525,7 +525,6 @@ h3{
     color: #777;
     z-index: 2;
 }
-/* ----- CONTACT FORM ----- */
 .form-control{
     display: flex;
     flex-direction: column;
