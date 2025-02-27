@@ -15,7 +15,6 @@ window.addEventListener("scroll", () => {
         }
     });
   
-    // Close menu when clicking outside
     document.addEventListener("click", function (event) {
         if (!menuIcon.contains(event.target) && !dropdownMenu.contains(event.target)) {
             dropdownMenu.style.display = "none";
