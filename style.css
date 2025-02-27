@@ -86,7 +86,6 @@ body{
     width: 100%;
     position: relative;
 }
-/* ----- NAVIGATION BAR ----- */
 nav{
     position: fixed;
     display: flex;
