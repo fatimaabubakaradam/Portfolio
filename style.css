@@ -481,13 +481,12 @@ h3{
 .project-box a {
     text-decoration: none;
     color: black;
-    z-index: 3; /* Ensure it's above the pseudo-element */
-    position: relative; /* Needed for z-index to work */
+    z-index: 3; 
+    position: relative; 
 }
 .nav_list a{
     list-style: none;
 }
-/* ----- CONTACT BOX ----- */
 .contact-info{
     position: relative;
     display: flex;
