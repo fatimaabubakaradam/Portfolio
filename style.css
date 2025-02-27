@@ -672,9 +672,7 @@ footer{
     
      .menu-container{
 visibility: hidden;    }  
-    /* .nav-menu1 {
-        display: none !important;
-      } */
+  
       .two-sections{
         display: flex;
         flex-direction: row;
@@ -685,7 +683,6 @@ visibility: hidden;    }
         margin-top: 160px;
       }
 }
-/* ----- MEDIA QUERY == 900px / RESPONSIVE ----- */
 @media only screen and (max-width: 900px) {
     .nav-button{
         display: none;
