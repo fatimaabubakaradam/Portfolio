@@ -765,9 +765,7 @@ visibility: hidden;    }
     .project-box{
         width: 60%;
     }
-    /* .nav-menu1 {
-        display: none !important;
-      } */
+
       .two-sections{
         display: flex;
         flex-direction: row;
