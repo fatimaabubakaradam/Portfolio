@@ -47,7 +47,7 @@ window.addEventListener("scroll", () => {
   
   if (document.querySelector(".typedText")) {
     new Typed(".typedText", {
-      strings: ["Versatile Web Developer", "Interface Designer", "Interactive Designer"],
+      strings: [" a Versatile Web Developer", " an Interface Designer", " an Interactive Designer"],
       loop: true,
       typeSpeed: 100,
       backSpeed: 30,
