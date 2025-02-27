@@ -45,7 +45,6 @@ window.addEventListener("scroll", () => {
     }
   }
   
-  // ✅ Typed.js Effect (Check if it exists before using)
   if (document.querySelector(".typedText")) {
     new Typed(".typedText", {
       strings: ["Versatile Web Developer", "Interface Designer", "Interactive Designer"],
