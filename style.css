@@ -360,7 +360,6 @@ background-color: black   !important ;
     display: flex;
     width: 50%;
 }
-/* -- ## --- RESUABLE CSS -- ## -- */
 .top-header{
     text-align: center;
     margin-bottom: 5em;
@@ -379,7 +378,6 @@ h3{
     color: var(--text-color-second);
     margin-bottom: 15px;
 }
-/* ----- ABOUT INFO ----- */
 .about-info{
     position: relative;
     display: flex;
@@ -408,7 +406,6 @@ h3{
 .about-btn button:hover{
     background: purple;
 }
-/* ----- ABOUT / SKILLS BOX ----- */
 .skills-box{
     margin: 10px;
 }
@@ -427,7 +424,6 @@ h3{
     padding: 2px 10px;
     border-radius: 5px;
 }
-/* ----- PROJECTS BOX ----- */
 .project-container{
     display: flex;
     width: 100%;
