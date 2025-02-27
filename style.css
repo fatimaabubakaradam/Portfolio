@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-/* ----- VARIABLES ----- */
 :root{
     --body-color: rgb(250, 250, 250);
     --color-white: rgb(255, 255, 255);
@@ -11,14 +10,12 @@
     --third-color: rgb(192, 166, 49);
     --first-shadow-color: rgba(0, 0, 0, 0.1);
 }
-/* ----- BASE ----- */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-/* ----- SMOOTH SCROLL ----- */
 html{
     scroll-behavior: smooth;
 }
