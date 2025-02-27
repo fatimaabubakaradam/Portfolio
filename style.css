@@ -136,7 +136,6 @@ background-color: black   !important ;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* When the menu is open */
 #dropdown-menu.show {
     display: block;
 }
@@ -181,18 +180,15 @@ background-color: black   !important ;
     background: purple;
     border-radius: 50%;
 }
-/* ----- WRAPPER DESIGN ----- */
 .wrapper{
     padding-inline: 10vw;
 }
-/* ----- FEATURED BOX ----- */
 .featured-box{
     position: relative;
     display: flex;
     height: 100vh;
     min-height: 700px;
 }
-/* ----- FEATURED TEXT BOX ----- */
 .featured-text{
     position: relative;
     display: flex;
@@ -306,7 +302,7 @@ background-color: black   !important ;
     animation: imgFloat 7s ease-in-out infinite;
     display: flex;
     justify-content: center;
-    align-items: center; /* Center the image within */
+    align-items: center; 
 }
 
 .image1 img {
@@ -346,7 +342,6 @@ background-color: black   !important ;
 .scroll-btn i{
     font-size: 20px;
 }
-/* ----- MAIN BOX ----- */
 .section{
     padding-block: 5em;
 }
