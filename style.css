@@ -797,10 +797,7 @@ visibility: hidden;    }
         display: flex;
         flex-direction: row;
       }
-      /* .undraw-imag{
-        width: 60%;
-    
-      } */
+      
 }
 @media only screen and (max-width: 1440px){
     .nav-menu1 {
