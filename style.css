@@ -707,9 +707,7 @@ visibility: hidden;    }
         height: 90vh;
         transition: .3s;
     }
-    /* .menu-container{
-        display: none !important;
-    } */
+
     
     .nav_menu_list{
         flex-direction: column;
