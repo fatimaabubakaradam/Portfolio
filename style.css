@@ -95,10 +95,10 @@ display: block;
     font-size: 5em;
     color: rgb(249, 233, 235);
 }
-.menu-icon{
+/* .menu-icon{
 background-color: black   !important ;
 
-}
+} */
 .menu-container{
     display: block ;
 }
