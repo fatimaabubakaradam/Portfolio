@@ -61,7 +61,6 @@ window.addEventListener("scroll", () => {
     if (menu) menu.classList.toggle("active");
   }
   
-  // ✅ ScrollReveal Animations (Check if ScrollReveal is defined)
   if (typeof ScrollReveal !== "undefined") {
     ScrollReveal().reveal(".featured-text-card", { origin: "top", distance: "80px", duration: 2000, reset: true });
     ScrollReveal().reveal(".featured-name", { delay: 100 });
@@ -80,7 +79,6 @@ window.addEventListener("scroll", () => {
     ScrollReveal().reveal(".form-control", { origin: "right", delay: 100 });
   }
   
-  // ✅ Scroll Active Function (Only Declared Once)
   const sections = document.querySelectorAll("section[id]");
   
   function scrollActive() {
