@@ -47,7 +47,7 @@ window.addEventListener("scroll", () => {
   
   if (document.querySelector(".typedText")) {
     new Typed(".typedText", {
-      strings: [" a Versatile Web Developer", " an Interface Designer", " an Interactive Designer"],
+      strings: [" a Certified Full-Stack Developer", " a Tech Innovator", " a Builder of What's Next"],
       loop: true,
       typeSpeed: 100,
       backSpeed: 30,
@@ -69,7 +69,8 @@ window.addEventListener("scroll", () => {
     ScrollReveal().reveal(".social_icons", { delay: 200 });
     ScrollReveal().reveal(".featured-image", { delay: 300 });
   
-    ScrollReveal().reveal(".project-box", { interval: 200 });
+    ScrollReveal().reveal(".project-box:not(.experience-card)", { interval: 200 });
+    ScrollReveal().reveal(".experience-card", { origin: "bottom", distance: "35px", interval: 180, duration: 900, reset: true });
   
     ScrollReveal().reveal(".top-header");
     ScrollReveal().reveal(".about-info", { origin: "left", delay: 100 });
