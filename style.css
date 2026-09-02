@@ -277,6 +277,9 @@ nav{
     flex-direction: column;
     flex: 1 1 55%;
     max-width: 650px;
+
+
+
     min-width: 0;
     padding-left: 0;
     z-index: 2;
