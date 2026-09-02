@@ -285,7 +285,7 @@ nav{
     margin-bottom: 4px;
 }
 .featured-text-card span{
-    background: purple;
+    background:  linear-gradient(135deg, purple, #7d4cf5);
     color: rgb(249, 233, 235);
     padding: 4px 12px;
     font-size: 13px;
